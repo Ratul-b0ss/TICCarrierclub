@@ -1,0 +1,8 @@
+{
+  "name": "TICCarrierclub - Bangladesh",
+  "description": "A premium, high-trust career-focused platform for university students and industry partners. Features event management, membership portals, AI-powered career guidance, and an integrated admin dashboard.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
